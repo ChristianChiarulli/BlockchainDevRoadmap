@@ -10,8 +10,6 @@ This is the path I'm taking to learn blockchain development.
 
 ## Todo
 
-### Courses
-
 - [Plutus Pioneer Program](https://developers.cardano.org/en/plutus-pioneer-program/)
 
 - [CryptoZombies Advanced Solidity Path: Get In-depth Knowledge](https://cryptozombies.io/en/solidity_advanced)
