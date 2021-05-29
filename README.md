@@ -29,3 +29,5 @@ This is the path I'm taking to learn blockchain development.
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
 - [Ethereum Guides and Resources](https://ethereum.org/en/learn/)
+
+- [OpenZeppelin](https://openzeppelin.com/)
